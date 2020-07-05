@@ -1,0 +1,11 @@
+C:\dsevents\bin\Debug\netcoreapp3.1\dsevents.exe
+C:\dsevents\bin\Debug\netcoreapp3.1\dsevents.deps.json
+C:\dsevents\bin\Debug\netcoreapp3.1\dsevents.runtimeconfig.json
+C:\dsevents\bin\Debug\netcoreapp3.1\dsevents.runtimeconfig.dev.json
+C:\dsevents\bin\Debug\netcoreapp3.1\dsevents.dll
+C:\dsevents\bin\Debug\netcoreapp3.1\dsevents.pdb
+C:\dsevents\obj\Debug\netcoreapp3.1\dsevents.csprojAssemblyReference.cache
+C:\dsevents\obj\Debug\netcoreapp3.1\dsevents.AssemblyInfoInputs.cache
+C:\dsevents\obj\Debug\netcoreapp3.1\dsevents.AssemblyInfo.cs
+C:\dsevents\obj\Debug\netcoreapp3.1\dsevents.dll
+C:\dsevents\obj\Debug\netcoreapp3.1\dsevents.pdb
